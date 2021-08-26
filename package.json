@@ -1,0 +1,20 @@
+{
+  "name": "express-axios-docker",
+  "version": "1.0.0",
+  "description": "Node project that serves simple http server over Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "axios",
+    "docker"
+  ],
+  "author": "Yash Soni",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
